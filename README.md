@@ -1,4 +1,4 @@
 # UiO-INF3331-INF3331-jacereim
 INF3331 - 2016
 
-Hello World
+29.08.2016 - Session 1
